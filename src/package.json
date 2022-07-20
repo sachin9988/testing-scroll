@@ -1,0 +1,25 @@
+{
+  "name": "wpgraphql-apollo-forward-and-backward-pagination-example",
+  "version": "1.0.0",
+  "description": "Example showing forward/backward pagination with WPGraphQL and Apollo Client",
+  "keywords": [
+    "apollo",
+    "wpgraphql",
+    "react"
+  ],
+  "homepage": "https://codesandbox.io/s/jvlrl98xw3",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-cache-inmemory": "1.5.1",
+    "apollo-client": "2.5.1",
+    "apollo-link-http": "1.5.14",
+    "graphql": "14.2.1",
+    "graphql-tag": "2.8.0",
+    "numeral": "2.0.6",
+    "react": "16.8.6",
+    "react-apollo": "2.5.5",
+    "react-apollo-hooks": "0.4.5",
+    "react-dom": "16.8.6",
+    "react-native-web": "0.11.2"
+  }
+}
